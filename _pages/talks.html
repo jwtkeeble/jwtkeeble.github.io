@@ -11,6 +11,15 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% assign invited = site.talks | where: "type", "Invited Talk" | sort: "date" | reverse %}
+{% assign contributed = site.talks | where: "type", "Contributed Talk" | sort: "date" | reverse %}
+
+<h2 class="page__title">Invited Talks</h2>
+{% for post in invited %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2 class="page__title">Contributed Talks</h2>
+{% for post in contributed %}
   {% include archive-single-talk.html %}
 {% endfor %}
