@@ -11,8 +11,6 @@ redirect_from:
 
 <p><a href="/files/cv.pdf" class="btn btn--primary btn--large" download="CV_James_Keeble.pdf"><i class="fas fa-download"></i> Download CV (PDF)</a></p>
 
-Computational physicist specialising in scientific ML: neural-network architectures and numerical algorithms for quantum many-body systems, scaled on multi-GPU clusters and benchmarked against exact methods.
-
 Experience
 ======
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1em;">

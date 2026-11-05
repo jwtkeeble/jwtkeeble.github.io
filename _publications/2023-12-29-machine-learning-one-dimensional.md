@@ -25,6 +25,6 @@ We compute the ground-state properties of fully polarized, trapped, one-dimensio
 
 **Authors:** J. W. T. Keeble, M. Drissi, A. Rojo-Francàs, B. Juliá-Díaz, and A. Rios
 
-**Links:** [Phys. Rev. A 108, 063320](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.063320) · [PDF](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.063320)
+**Links:** [Phys. Rev. A 108, 063320](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.063320) · [arXiv:2304.04725](https://arxiv.org/abs/2304.04725) · [PDF](https://arxiv.org/pdf/2304.04725)
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Topical Seminar: Neural Quantum States for Nuclei: Testing the Limits of Classical Computing"
+title: "Neural Quantum States for Nuclei: Testing the Limits of Classical Computing"
 collection: talks
 type: "Invited Talk"
 talk_type: "Invited Talk"

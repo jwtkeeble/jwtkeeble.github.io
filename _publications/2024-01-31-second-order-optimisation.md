@@ -1,5 +1,5 @@
 ---
-title: "Second-order optimisation strategies for neural network quantum states"
+title: "Second-order optimization strategies for neural network quantum states"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-31-second-order-optimisation
@@ -31,6 +31,6 @@ The Variational Monte Carlo (VMC) method has recently seen important advances th
 **Authors:** M. Drissi, J. W. T Keeble, J. Rozalén Sarmiento, and A. Rios 
 
 
-**Links:** [Phil. Trans. A. 382, 2275](https://royalsocietypublishing.org/rsta/article/382/2275/20240057/112593/Second-order-optimization-strategies-for-neural) · [PDF](https://royalsocietypublishing.org/rsta/article/382/2275/20240057/112593/Second-order-optimization-strategies-for-neural)
+**Links:** [Phil. Trans. A. 382, 2275](https://royalsocietypublishing.org/rsta/article/382/2275/20240057/112593/Second-order-optimization-strategies-for-neural) · [arXiv:2401.17550](https://arxiv.org/abs/2401.17550) · [PDF](https://arxiv.org/pdf/2401.17550)
 
 

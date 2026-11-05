@@ -1,5 +1,5 @@
 ---
-title: "Neural quantum states for atomic nuclei"
+title: "Neural Quantum States for Atomic Nuclei"
 collection: talks
 type: "Invited Talk"
 talk_type: "Invited Talk"

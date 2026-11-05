@@ -13,8 +13,7 @@ title                    : "James W. T. Keeble"
 title_separator          : "-"
 name                     : &name "James W. T. Keeble"
 description              : &description "James W. T. Keeble is a computational physicist working on machine learning and quantum information science, including neural quantum states for atomic nuclei."
-url                      : https://jwtkeeble.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://jwtkeeble.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwtkeeble/jwtkeeble.github.io"
 
@@ -26,9 +25,9 @@ author:
   avatar           : "profile.jpg"
   name             : "James W. T. Keeble"
   pronouns         : 
-  bio              : "Computational Physicist. Primarily focused in Machine Learning and Quantum Information Science."
+  bio              : "Computational physicist specialising in scientific ML for quantum many-body systems."
   location         : "London, UK"
-  employer         : "Open to ML & scientific computing roles"
+  employer         : 
   uri              : # URL
   email            : "jkeeble@physik.uni-bielefeld.de"
 

@@ -24,4 +24,4 @@ We use machine learning techniques to solve the nuclear two-body bound state pro
 
 **Authors:** J.W.T. Keeble and A. Rios
 
-**Links:** [Physics Letters B, 809, 135743](https://www.sciencedirect.com/science/article/pii/S0370269320305463) · [PDF](https://www.sciencedirect.com/science/article/pii/S0370269320305463)
+**Links:** [Physics Letters B, 809, 135743](https://www.sciencedirect.com/science/article/pii/S0370269320305463) · [arXiv:1911.13092](https://arxiv.org/abs/1911.13092) · [PDF](https://arxiv.org/pdf/1911.13092)

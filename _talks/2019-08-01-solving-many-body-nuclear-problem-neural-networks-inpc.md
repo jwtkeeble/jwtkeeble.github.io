@@ -1,5 +1,5 @@
 ---
-title: "Solving the many-body nuclear problem with neural networks"
+title: "Solving the Many-Body Nuclear Problem with Neural Networks"
 collection: talks
 type: "Contributed Talk"
 talk_type: "Contributed Talk"

@@ -1,5 +1,5 @@
 ---
-title: "Solving the few-body problem with artificial neural networks"
+title: "Solving the Few-Body Problem with Artificial Neural Networks"
 collection: talks
 type: "Contributed Talk"
 talk_type: "Contributed Talk"

@@ -26,6 +26,6 @@ Motivated by the Gottesman-Knill theorem, we present a detailed study of the qua
 
 **Authors:** Florian Brökemeier, S. Momme Hengstenberg, James W. T. Keeble, Caroline E. P. Robin, Federico Rocco, and Martin J. Savage
 
-**Links:** [Phys. Rev. C 111, 034317](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.034317) · [PDF](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.034317)
+**Links:** [Phys. Rev. C 111, 034317](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.034317) · [arXiv:2409.12064](https://arxiv.org/abs/2409.12064) · [PDF](https://arxiv.org/pdf/2409.12064)
 
 

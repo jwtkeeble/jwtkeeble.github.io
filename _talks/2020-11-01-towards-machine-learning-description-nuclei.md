@@ -1,5 +1,5 @@
 ---
-title: "Towards a Machine Learning description of Nuclei"
+title: "Towards a Machine Learning Description of Nuclei"
 collection: talks
 type: "Contributed Talk"
 talk_type: "Contributed Talk"

@@ -11,4 +11,4 @@ PyTorch implementations of KFAC, its quasi-Newton variants, natural gradient des
 
 **Code:** [github.com/jwtkeeble/second-order-optimization-NQS](https://github.com/jwtkeeble/second-order-optimization-NQS)
 
-**Paper:** [Second-order optimisation strategies for neural network quantum states](/publication/2024-01-31-second-order-optimisation)
+**Paper:** [Second-order optimization strategies for neural network quantum states](/publication/2024-01-31-second-order-optimisation)
