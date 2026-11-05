@@ -11,8 +11,6 @@ I'm a computational physicist and research software engineer with a Ph.D. in the
 
 I'm open to new roles in machine learning and scientific computing.
 
-**[Download CV (PDF)](/files/cv.pdf)**
-
 ## Highlights
 
 - **GPU-scale scientific code:** custom CUDA.jl kernels and a re-engineered MCMC sampler that took our quantum-resource calculations from 24 to 44 qubits (10⁵ to 10⁹ sampled states), cutting runtimes from months to hours.

@@ -9,8 +9,6 @@ redirect_from:
  
 {% include base_path %}
 
-<p><a href="/files/cv.pdf" class="btn btn--primary btn--large" download="CV_James_Keeble.pdf"><i class="fas fa-download"></i> Download CV (PDF)</a></p>
-
 Experience
 ======
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1em;">
