@@ -13,7 +13,7 @@ title                    : "James W. T. Keeble"
 title_separator          : "-"
 name                     : &name "James W. T. Keeble"
 description              : &description "James W. T. Keeble is a computational physicist working on machine learning and quantum information science, including neural quantum states for atomic nuclei."
-url                      : https://jwtkeeble.github.io # The base hostname & protocol for your site
+url                      : https://jameswtkeeble.com # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwtkeeble/jwtkeeble.github.io"
 
