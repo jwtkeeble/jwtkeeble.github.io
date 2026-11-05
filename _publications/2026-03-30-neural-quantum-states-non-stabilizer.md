@@ -7,7 +7,7 @@ excerpt: 'Neural quantum states (NQS) are known to efficiently represent tensor-
 date: 2026-03-30
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2603.28646'
-citation: 'Keeble, J. W. T., Lovato, A., and Robin, C. E. P. (2026). &quot;Neural Quantum States in Non-Stabilizer Regimes: Benchmarks with Atomic Nuclei.&quot; <i>arXiv:2603.28646</i> [nucl-th].'
+citation: '<b>Keeble, J. W. T.</b>, Lovato, A., & Robin, C. E. P. (2026). Neural quantum states in non-stabilizer regimes: Benchmarks with atomic nuclei. <i>arXiv preprint</i>, arXiv:2603.28646 [nucl-th].'
 bibtex: |
   @article{Keeble_2026,
     author = {Keeble, James W. T. and Lovato, Alessandro and Robin, Caroline E. P.},

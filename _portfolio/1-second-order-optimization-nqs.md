@@ -1,11 +1,11 @@
 ---
-title: "Second-order optimizers for neural-network quantum states"
-excerpt: "PyTorch implementations of KFAC, its quasi-Newton variants, natural gradient descent and a new decision-geometry optimizer, benchmarked on Variational Monte Carlo training of neural-network quantum states."
+title: "Second-order optimisers for neural-network quantum states"
+excerpt: "PyTorch implementations of KFAC, its quasi-Newton variants, natural gradient descent and a new decision-geometry optimiser, benchmarked on Variational Monte Carlo training of neural-network quantum states."
 collection: portfolio
 link: https://github.com/jwtkeeble/second-order-optimization-NQS
 ---
 
-PyTorch implementations of KFAC, its quasi-Newton variants, natural gradient descent and a new decision-geometry optimizer, benchmarked on Variational Monte Carlo training of neural-network quantum states. Uses `torch.func` to compute per-sample gradients efficiently.
+PyTorch implementations of KFAC, its quasi-Newton variants, natural gradient descent and a new decision-geometry optimiser, benchmarked on Variational Monte Carlo training of neural-network quantum states. Uses `torch.func` to compute per-sample gradients efficiently.
 
 **Language:** Python
 

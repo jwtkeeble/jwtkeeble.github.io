@@ -7,7 +7,7 @@ excerpt: 'The Variational Monte Carlo (VMC) method has recently seen important a
 date: 2024-01-31
 venue: 'Philosophical Transactions of the Royal Society A'
 paperurl: https://royalsocietypublishing.org/rsta/article/382/2275/20240057/112593/Second-order-optimization-strategies-for-neural
-citation: 'M. Drissi, J. W. T Keeble, J. Rozalén Sarmiento, A. Rios; Second-order optimization strategies for neural network quantum states. Phil. Trans. R. Soc. A 23 July 2024; 382 (2275): 20240057. https://doi.org/10.1098/rsta.2024.0057'
+citation: 'Drissi, M., <b>Keeble, J. W. T.</b>, Rozalén Sarmiento, J., & Rios, A. (2024). Second-order optimization strategies for neural network quantum states. <i>Philosophical Transactions of the Royal Society A</i>, 382(2275), 20240057.'
 bibtex: |
     @article{10.1098/rsta.2024.0057,
         author = {Drissi, M. and Keeble, J. W. T and Rozalén Sarmiento, J. and Rios, A.},

@@ -7,7 +7,7 @@ excerpt: 'We compute the ground-state properties of fully polarized, trapped, on
 date: 2023-12-29
 venue: 'Physical Review A'
 paperurl: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.063320
-citation: 'Keeble, J. W., Drissi, M., Rojo-Francàs, A., Juliá-Díaz, B., & Rios, A. (2023). Machine learning one-dimensional spinless trapped fermionic systems with neural-network quantum states. Physical Review A, 108(6), 063320.'
+citation: '<b>Keeble, J. W. T.</b>, Drissi, M., Rojo-Francàs, A., Juliá-Díaz, B., & Rios, A. (2023). Machine learning one-dimensional spinless trapped fermionic systems with neural-network quantum states. <i>Physical Review A</i>, 108(6), 063320.'
 bibtex: |
     @article{keeble2023machine,
     title={Machine learning one-dimensional spinless trapped fermionic systems with neural-network quantum states},

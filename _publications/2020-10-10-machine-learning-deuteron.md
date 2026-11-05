@@ -7,7 +7,7 @@ excerpt: 'We use machine learning techniques to solve the nuclear two-body bound
 date: 2020-10-10
 venue: 'Physics Letters B'
 paperurl: https://www.sciencedirect.com/science/article/pii/S0370269320305463
-citation: 'Keeble, J. W. T., & Rios, A. (2020). Machine learning the deuteron. Physics Letters B, 809, 135743.'
+citation: '<b>Keeble, J. W. T.</b>, & Rios, A. (2020). Machine learning the deuteron. <i>Physics Letters B</i>, 809, 135743.'
 bibtex: |
     @article{keeble2020machine,
     title={Machine learning the deuteron},

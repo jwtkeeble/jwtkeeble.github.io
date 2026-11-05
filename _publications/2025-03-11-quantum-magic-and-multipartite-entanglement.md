@@ -7,7 +7,7 @@ excerpt: 'Motivated by the Gottesman-Knill theorem, we present a detailed study 
 date: 2025-03-11
 venue: 'Physical Review C'
 paperurl: 'https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.034317'
-citation: 'Brökemeier, F., Hengstenberg, S. M., Keeble, J. W. T., Robin, C. E. P., Rocco, F., Savage, M. J. (2025). &quot;Quantum magic and multipartite entanglement in the structure of nuclei.&quot; <i>PhysRevC.111.034317</i>'
+citation: 'Brökemeier, F., Hengstenberg, S. M., <b>Keeble, J. W. T.</b>, Robin, C. E. P., Rocco, F., & Savage, M. J. (2025). Quantum magic and multipartite entanglement in the structure of nuclei. <i>Physical Review C</i>, 111(3), 034317.'
 bibtex: |
     @article{brokemeier2025quantum,
     title={Quantum magic and multipartite entanglement in the structure of nuclei},
