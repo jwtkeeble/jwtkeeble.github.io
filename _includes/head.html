@@ -10,6 +10,14 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  // Set dark mode as default before CSS loads to avoid flash
+  const savedTheme = localStorage.getItem("theme");
+  if (savedTheme === "light") {
+    // Keep light if explicitly saved
+  } else {
+    // Default to dark (also covers null/undefined)
+    document.documentElement.setAttribute("data-theme", "dark");
+  }
 </script>
 
 <!-- For all browsers -->
