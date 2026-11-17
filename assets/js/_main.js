@@ -145,12 +145,12 @@ $(document).ready(function () {
 
   // Force dark mode as default, but allow users to toggle
   setTheme("dark");
-  window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener("change", (e) => {
-          if (!localStorage.getItem("theme")) {
-            setTheme(e.matches ? "dark" : "light");
-          }
-        });
+  //window.matchMedia('(prefers-color-scheme: dark)')
+  //      .addEventListener("change", (e) => {
+  //        if (!localStorage.getItem("theme")) {
+  //          setTheme(e.matches ? "dark" : "light");
+  //        }
+  //      });
 
   // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);

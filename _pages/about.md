@@ -13,7 +13,7 @@ I'm open to new roles in machine learning and scientific computing.
 
 ## Highlights
 
-- **GPU-scale scientific code:** custom CUDA.jl kernels and a re-engineered MCMC sampler that took our quantum-resource calculations from 24 to 44 qubits (10⁵ to 10⁹ sampled states), cutting runtimes from months to hours.
+- **GPU-scale scientific code:** custom CUDA.jl kernels and a re-engineered MCMC sampler that took our quantum-resource calculations from 24 to 44 qubits (10⁵ to 10¹⁰ sampled states), cutting runtimes from months to hours.
 - **Better optimisers:** Decisional Gradient Descent, a game-theoretic extension of stochastic reconfiguration that outperforms it ([paper](/publication/2024-01-31-second-order-optimisation), [software](/software/)).
 - **PyTorch Pace-Setter Award, 2023:** [first recipient](https://pytorch.org/ecosystem/contributor-awards-2023/#:~:text=PYTORCH%20PACE%2DSETTER,James%20Keeble) of the PyTorch Foundation's contributor award.
 
